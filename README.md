@@ -25,10 +25,6 @@ If you'd like to get in touch with me, you can reach me through the following ch
 - [LinkedIn](https://www.linkedin.com/in/hicham-bel-houcin-a3931323b/)
 - [Twitter](https://twitter.com/HichamBelhoucin)
 
-## 📝 Resume/CV
-
-You can find my resume/CV [here](link-to-resume/cv).
-
 ## 📈 GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,6 +42,14 @@ Here are some of the technologies and tools I work with:
 - Typescript
 - Docker
 
-Thanks for stopping by!
+## 💻 Projects
+
+Here are some of my recent projects:
+
+- [Webserv](https://github.com/Hicham-BelHoucin/websrv)
+- [inception](https://github.com/Hicham-BelHoucin/inception)
+- [ft_containers](https://github.com/Hicham-BelHoucin/ft_containers)
+
+Thanks for stopping by! Let's connect and build something great together.
 
 ---
