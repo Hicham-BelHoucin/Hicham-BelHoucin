@@ -29,6 +29,8 @@ If you'd like to get in touch with me, you can reach me through the following ch
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=8)](https://github.com/badr-7/github-readmestats)
+
 ## 🚀 Skills
 
 Here are some of the technologies and tools I work with:
@@ -53,3 +55,5 @@ Here are some of my recent projects:
 Thanks for stopping by! Let's connect and build something great together.
 
 ---
+
+![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
