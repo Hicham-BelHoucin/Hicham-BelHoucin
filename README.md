@@ -6,7 +6,7 @@ I'm Hicham Bel Houcin, a frontend developer. Welcome to my GitHub profile!
 
 Here are some of the projects I'm currently working on:
 
-- [ft_transcendence](https://github.com/Hicham-BelHoucin/): ft_transcendence is a fun and engaging website that brings together gaming and socializing. It's a great way for users to meet new people, compete against each other, and chat in real-time.
+- [ft_transcendence](https://github.com/Hicham-BelHoucin/ft_transcendence): ft_transcendence is a fun and engaging website that brings together gaming and socializing. It's a great way for users to meet new people, compete against each other, and chat in real-time.
 
 ## 🌱 What I'm Learning
 
