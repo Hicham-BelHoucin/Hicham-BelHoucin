@@ -16,6 +16,7 @@ I'm always looking to learn and improve my skills. Here are some of the things I
 - Nest js
 - React js
 - Typescript
+- Angular
 
 ## 📫 How to Reach Me
 
