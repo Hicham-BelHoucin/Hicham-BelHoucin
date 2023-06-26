@@ -30,7 +30,7 @@ If you'd like to get in touch with me, you can reach me through the following ch
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=8)](https://github.com/Hicham-BelHoucin/github-readmestats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=11)](https://github.com/Hicham-BelHoucin/github-readmestats)
 
 ## 🚀 Skills
 
@@ -56,6 +56,8 @@ Here are some of the technologies and tools I work with:
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)](#)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
+[![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)](#)
+
 
 ## 💻 Projects
 
