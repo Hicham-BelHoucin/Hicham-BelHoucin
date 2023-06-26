@@ -30,7 +30,7 @@ If you'd like to get in touch with me, you can reach me through the following ch
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=8)](https://github.com/badr-7/github-readmestats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=8)](https://github.com/Hicham-BelHoucin/github-readmestats)
 
 ## 🚀 Skills
 
