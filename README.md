@@ -21,10 +21,20 @@ I'm always looking to learn and improve my skills. Here are some of the things I
 ## 📫 How to Reach Me
 
 If you'd like to get in touch with me, you can reach me through the following channels:
-
-- [Email](mailto:belhoucin.hicham@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hicham-bel-houcin-a3931323b/)
-- [Twitter](https://twitter.com/HichamBelhoucin)
+<div align="left">
+  <a href="https://linkedin.com/in/hicham-bel-houcin">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:belhoucin.hicham@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://instagram.com/hicham_belhoucin">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://twitter.com/HichamBelhoucin">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
 
 ## 📈 GitHub Stats
 
