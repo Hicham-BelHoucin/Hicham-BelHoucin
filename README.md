@@ -80,5 +80,3 @@ Here are some of my recent projects:
 Thanks for stopping by! Let's connect and build something great together.
 
 ---
-
-![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
