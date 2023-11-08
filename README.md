@@ -78,5 +78,5 @@ Here are some of my recent projects:
 - [ft_containers](https://github.com/Hicham-BelHoucin/ft_containers)
 
 Thanks for stopping by! Let's connect and build something great together.
-
+[![](https://visitcount.itsvg.in/api?id=Hicham-BelHoucin&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ---
