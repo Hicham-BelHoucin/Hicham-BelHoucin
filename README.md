@@ -77,6 +77,6 @@ Here are some of my recent projects:
 - [inception](https://github.com/Hicham-BelHoucin/inception)
 - [ft_containers](https://github.com/Hicham-BelHoucin/ft_containers)
 
-Thanks for stopping by! Let's connect and build something great together.
+Thanks for stopping by! Let's connect and build something great together.<br>
 [![](https://visitcount.itsvg.in/api?id=Hicham-BelHoucin&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ---
