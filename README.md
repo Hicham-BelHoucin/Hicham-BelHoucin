@@ -77,6 +77,13 @@ Here are some of my recent projects:
 - [inception](https://github.com/Hicham-BelHoucin/inception)
 - [ft_containers](https://github.com/Hicham-BelHoucin/ft_containers)
 
-Thanks for stopping by! Let's connect and build something great together.<br>
-[![](https://visitcount.itsvg.in/api?id=Hicham-BelHoucin&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<div align="center"><a href="https://www.buymeacoffee.com/belhoucinhicham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
+<div align="center">
+
+<a align="center" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Hicham-BelHoucin&label=Profile%20Views&pretty=true" />
+</a>
+</div>
+
+Thanks for stopping by! Let's connect and build something great together.
 ---
