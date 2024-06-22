@@ -1,21 +1,22 @@
 # Hi there 👋
 
-I'm Hicham Bel Houcin, a frontend developer. Welcome to my GitHub profile!
+I'm Hicham Bel Houcin, a full-stack developer. Welcome to my GitHub profile!
 
 ## 🔭 Current Projects
 
 Here are some of the projects I'm currently working on:
 
-- [ft_transcendence](https://github.com/Hicham-BelHoucin/ft_transcendence): ft_transcendence is a fun and engaging website that brings together gaming and socializing. It's a great way for users to meet new people, compete against each other, and chat in real-time.
+- [Learning Java](https://github.com/Hicham-BelHoucin/java): I'm currently diving into Java to broaden my programming expertise and explore its applications in various projects.
 
 ## 🌱 What I'm Learning
 
 I'm always looking to learn and improve my skills. Here are some of the things I'm currently learning:
 
-- Next js
-- Nest js
-- React js
+- Next.js
+- Nest.js
+- React.js
 - Typescript
+- Java
 - Angular
 
 ## 📫 How to Reach Me
@@ -32,13 +33,13 @@ If you'd like to get in touch with me, you can reach me through the following ch
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://twitter.com/HichamBelhoucin">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
+[![Hicham Bel Houcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hicham-BelHoucin)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-BelHoucin&langs_count=11)](https://github.com/Hicham-BelHoucin/github-readmestats)
 
@@ -68,11 +69,11 @@ Here are some of the technologies and tools I work with:
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
 [![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)](#)
 
-
 ## 💻 Projects
 
 Here are some of my recent projects:
 
+- [ft_transcendence](https://github.com/Hicham-BelHoucin/ft_transcendence)
 - [Webserv](https://github.com/Hicham-BelHoucin/websrv)
 - [inception](https://github.com/Hicham-BelHoucin/inception)
 - [ft_containers](https://github.com/Hicham-BelHoucin/ft_containers)
@@ -86,4 +87,3 @@ Here are some of my recent projects:
 </div>
 
 Thanks for stopping by! Let's connect and build something great together.
----
