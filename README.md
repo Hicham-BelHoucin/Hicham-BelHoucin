@@ -6,7 +6,7 @@ I'm Hicham Bel Houcin, a full-stack developer. Welcome to my GitHub profile!
 
 Here are some of the projects I'm currently working on:
 
-- [Learning Java](https://github.com/Hicham-BelHoucin/java): I'm currently diving into Java to broaden my programming expertise and explore its applications in various projects.
+- [Matcha](https://github.com/Hicham-BelHoucin/java): This project aims to create a dating website.
 
 ## 🌱 What I'm Learning
 
@@ -16,8 +16,7 @@ I'm always looking to learn and improve my skills. Here are some of the things I
 - Nest.js
 - React.js
 - Typescript
-- Java
-- Angular
+- Python
 
 ## 📫 How to Reach Me
 
@@ -47,6 +46,7 @@ If you'd like to get in touch with me, you can reach me through the following ch
 
 Here are some of the technologies and tools I work with:
 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
