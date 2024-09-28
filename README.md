@@ -6,7 +6,7 @@ I'm Hicham Bel Houcin, a full-stack developer. Welcome to my GitHub profile!
 
 Here are some of the projects I'm currently working on:
 
-- [Matcha](https://github.com/Hicham-BelHoucin/java): This project aims to create a dating website.
+- [Matcha](https://github.com/Hicham-BelHoucin/matcha): This project aims to create a dating website.
 
 ## 🌱 What I'm Learning
 
